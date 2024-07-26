@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding-left:20px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+header{
+    padding-right:20px;
+    background-color:rgb(185, 93, 203);
+}
+.a 
+{
+    background-color:black;
+    height:90px;
+    color:white;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding:25px;
+}
+img{
+    float:right;
+    height:400px;
+}
+#parah
+{
+    font-size:17px;
+    width:70%;
+    height:150px;
+    text-align: justify;
+    padding-left:60px;
+}
+.c a{
+    display:inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height:50px;
+    background-color: rgb(230, 173, 227);
+    border: 2px solid rgb(230, 173, 227);
+    border-radius: 10px;
+    margin:10px;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.skills 
+{
+    display: flex;
+}
+.skills >div
+{
+    margin:8px;
+    padding:30px;
+    border-style:solid;
+}
+.program
+{
+    display: flex;
+    background-color:#C39BD3;
+}
+.program >div
+{
+    margin:5px;
+    padding:5px;
+}
+.projects1
+{
+ display:flex;
+}
+.projects1 >div
+{
+    margin:50px;
+    padding:10px;
+    border:3px groove black;
+    box-shadow:10px 10px;
+    width:900px;
+    height:300px;
+}
+.projects2
+{
+ display:flex;
+}
+.projects2 >div
+{
+    margin:50px;
+    padding:10px;
+    border:3px groove black;
+    box-shadow:10px 10px;
+    width:900px;
+    height:300px;
+}
+.d a{
+    display:inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height:30px;
+    background-color: rgb(230, 173, 227);
+    border: 2px solid rgb(230, 173, 227);
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding-left: 2px;
+}
+.aboutme
+{
+    display:flex;
+}
+#para2
+{
+    width:600px;
+    padding-left:40px;
+}
